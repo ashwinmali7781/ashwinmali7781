@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Ashwin Mali</h1>
+<h3 align="center">🚀 CSE (AI-ML) Student | Aspiring Software Engineer</h3>
+
 # 💫 About Me:
 🚀 CSE (AI-ML) Student | Problem Solver  <br>💻 Skilled in C, C++, Python  <br>🧠 Passionate about DSA, AI & Real-World Projects  <br>🎯 Google Big Code 2026 – Round 1 Qualified  <br>🔬 Building VR & innovative software solutions  <br>📈 Always learning, always improving
 
@@ -24,4 +27,48 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ashwinmali7781&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+---
+
+## ⚡ Tech Stack
+- 💻 Languages: C, C++, Python
+- 🌐 Web: HTML, CSS, JavaScript
+- 🗄️ Database: SQL, MySQL
+- 🧠 Core: DSA, OOP, Problem Solving
+
+---
+
+## 🚀 Projects
+### 🔹 Car Engine Expo in Virtual Reality
+- Built an interactive VR-based engine exploration system
+- Focused on real-world simulation & visualization
+
+### 🔹 (Add 2–3 more projects here)
+- Project Name → 1 line description
+- Tech used
+
+---
+
+## 🏆 Achievements
+- 🚀 Google Big Code 2026 – Qualified (Top 15,000)
+- 💡 Strong problem-solving skills
+- 📚 Continuous DSA practice
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashwinmali7781&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinmali7781&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: (add link)
+- 📧 Email: (add email)
+
+---
+
+⭐ *"Code. Build. Improve. Repeat."*
