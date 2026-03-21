@@ -11,6 +11,7 @@
   <a href="mailto:ashwinmali72@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/AshwinMali/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://codolio.com/profile/Ashwin_Mali_7"><img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="[https://codolio.com/profile/Ashwin_Mali_7](https://my-portfolio-54ju.onrender.com)"><img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </p>
 
 <p align="center">
