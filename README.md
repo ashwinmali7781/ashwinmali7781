@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ashwin Mali 👋</h1>
 
 <p align="center">
-  <b>Computer Science Undergraduate · AI-ML Specialization · Full-Stack Developer</b><br/>
+  <b>Computer Science Undergraduate · AIML Specialization · Full-Stack Developer</b><br/>
   <i>Building scalable web applications and intelligent systems</i>
 </p>
 
