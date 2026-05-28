@@ -63,7 +63,7 @@ const ashwin = {
 
 <div align="center">
 
-> 📌 **[Click here to view / download my Resume](https://drive.google.com/your-resume-link-here)**
+> 📌 **[Click here to view / download my Resume]([https://drive.google.com/your-resume-link-here](https://drive.google.com/file/d/12tsF3x4N8agrkJCEtYXvXIp83zNIugk3/view?usp=sharing))**
 >
 > *Replace the above link with your Google Drive / hosted resume URL*
 
