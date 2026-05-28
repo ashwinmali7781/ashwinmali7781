@@ -88,8 +88,8 @@ const ashwin = {
 - 📊 Real-time leaderboard, progress tracking & auth
 - 🚀 **35% improvement** in frontend performance
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashwinmali7781)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://my-portfolio-54ju.onrender.com/)
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)]([https://github.com/ashwinmali7781](https://github.com/ashwinmali7781/GetHired.git))
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF5722?style=flat-square&logo=google-chrome&logoColor=white)]([https://my-portfolio-54ju.onrender.com/](https://get-hired-nu.vercel.app/))
 
 </td>
 <td width="50%" valign="top">
