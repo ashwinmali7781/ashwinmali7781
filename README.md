@@ -1,297 +1,375 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/ZVik7pIo9KB3ab2ff1/giphy.gif" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:2563EB&height=220&section=header&text=Ashwin%20Mali&fontSize=60&fontColor=FFFFFF&fontAlignY=40&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Kolhapur%2C%20Maharashtra%2C%20India&descSize=16&descColor=CBD5E1&descAlignY=62&animation=fadeIn" width="100%"/>
+
 </div>
 
-###
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Ashwin%20Mali&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI-ML%20Engineer%20%7C%20Kolhapur%2C%20Maharashtra&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;AI%2FML+Engineer;Open+Source+Contributor;Problem+Solver;Lifelong+Learner)](https://git.io/typing-svg)
 
-<br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=ashwinmali7781&label=Profile%20views&color=6C63FF&style=for-the-badge" />
-&nbsp;
-<a href="https://linkedin.com/in/ashwin-mali-697348286">
-  <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:ashwinmali72@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/ashwinmali7781">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
+<div align="center">
+
 <a href="https://my-portfolio-54ju.onrender.com/">
-  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-1E3A8A?style=for-the-badge&logo=vercel&logoColor=60A5FA&labelColor=0D1117" />
 </a>
 &nbsp;
 <a href="https://drive.google.com/file/d/12tsF3x4N8agrkJCEtYXvXIp83zNIugk3/view">
-  <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resume-2563EB?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0D1117" />
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/ashwin-mali-697348286">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+</a>
+&nbsp;
+<a href="https://github.com/ashwinmali7781">
+  <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" />
+</a>
+&nbsp;
+<a href="mailto:ashwinmali72@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
 </a>
 
 <br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=820&lines=Building+scalable+full-stack+%26+AI-powered+systems+%F0%9F%9A%80;React+%7C+Django+%7C+Node.js+%7C+TensorFlow+%7C+PostgreSQL;Top+15%2C000+%2F+100%2C000%2B+%E2%80%94+Google+Big+Code+2026+%F0%9F%8F%86;Open+to+SDE+%7C+Full-Stack+%7C+AI-ML+Internships)](https://git.io/typing-svg)
+<a href="https://leetcode.com/u/AshwinMali/">
+  <img src="https://img.shields.io/badge/LeetCode_250%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117" />
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/user/ashwinm6dqi/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D1117" />
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/ashwinmali72">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117" />
+</a>
+&nbsp;
+<a href="https://codolio.com/profile/Ashwin_Mali_7">
+  <img src="https://img.shields.io/badge/Codolio-3B82F6?style=for-the-badge&logoColor=white&labelColor=0D1117" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ashwinmali7781&label=Profile+Views&color=2563EB&style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-```python
-class AshwinMali:
-    role        = "Full-Stack Developer & AI-ML Engineer"
-    location    = "Kolhapur, Maharashtra, India 🇮🇳"
-    education   = "B.Tech CSE (AI-ML) — D.Y. Patil College of Engineering & Technology"
-    cgpa        = "7.91/10"
+<br/>
 
-    interests   = [
-        "Full-Stack Web Development",
-        "AI / Deep Learning Systems",
-        "Distributed Systems & Scalability",
-        "NLP & Computer Vision",
-        "Database Architecture"
-    ]
+## About Me
 
-    currently_building = [
-        "AI-powered interview prep platforms",
-        "Scalable MERN stack applications",
-        "RNN-based NLP pipelines"
-    ]
+```typescript
+const ashwin = {
+  role        : "Full-Stack Developer & AI-ML Engineer",
+  location    : "Kolhapur, Maharashtra, India 🇮🇳",
+  education   : "B.Tech CSE (AI-ML) — D.Y. Patil College of Engineering & Technology",
+  cgpa        : 7.91,
 
-    strengths   = [
-        "DSA & Algorithmic Problem Solving",
-        "System Design & OOP",
-        "End-to-end Product Delivery"
-    ]
+  passion     : [
+    "Building scalable, fault-tolerant full-stack applications",
+    "Designing AI/ML pipelines for real-world deployment",
+    "Solving complex DSA problems",
+    "Contributing to open source",
+    "Always learning, always shipping",
+  ],
 
-    achievements = [
-        "Top 15,000 / 100,000+ — Google Big Code 2026",
-        "250+ DSA problems — LeetCode · GFG · HackerRank",
-        "2nd Place — State-Level Project Competition",
-        "President — Automation & Robotics Department"
-    ]
+  achievements: {
+    competitive  : "Top 15,000 / 100,000+ — Google Big Code 2026",
+    dsa          : "250+ problems — LeetCode · GFG · HackerRank",
+    competition  : "2nd Place — State-Level Project Competition",
+    leadership   : "President — Automation & Robotics Department",
+  },
+
+  currentlyBuilding : "AI-powered full-stack systems & deep learning pipelines",
+  openTo            : ["SDE Internships", "Full-Stack Roles", "AI/ML Engineering"],
+};
 ```
 
----
+<br/>
 
-## 🛠️ Tech Stack & Skills
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-### 👨‍💻 Languages
+<br/>
+
+## Tech Stack
+
+**Languages**
+
 <p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/SQL-3B82F6?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117"/>
 </p>
 
-### 🎨 Frontend
+**Frontend**
+
 <p>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=next.js&logoColor=black&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=0D1117"/>
 </p>
 
-### ⚙️ Backend
+**Backend**
+
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20APIs-6C63FF?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Express.js-FFFFFF?style=for-the-badge&logo=express&logoColor=black&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Flask-FFFFFF?style=for-the-badge&logo=flask&logoColor=black&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white&labelColor=0D1117"/>
 </p>
 
-### 🧠 AI / ML
+**Databases**
+
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RNN%20%2F%20CNN-5C3EE8?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NLP-6C63FF?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EDA-FF6600?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=0D1117"/>
 </p>
 
-### 🗄️ Databases
+**AI / ML**
+
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/NLP-3B82F6?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
 </p>
 
-### 🧪 Core CS Concepts
+**Tools & Cloud**
+
 <p>
-  <img src="https://img.shields.io/badge/DSA-6C63FF?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OOP-00599C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OS-444444?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Distributed%20Systems-6C63FF?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scalability-555555?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=0D1117"/>
 </p>
 
-### ⚙️ Tools & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
+<br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🏆 Featured Projects
+<br/>
 
-<table>
+## Featured Projects
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 GetHired — AI Interview Platform
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashwinmali7781/GetHired.git)
-[![Live](https://img.shields.io/badge/Live-6C63FF?style=flat-square&logoColor=black)](https://gethired-ashwinmali72-gmailcoms-projects.vercel.app/)
+### GetHired — AI Interview Platform
 
-`React.js` `Vite` `Supabase` `PostgreSQL` `Tailwind CSS`
+[![GitHub](https://img.shields.io/badge/GitHub-1E3A8A?style=flat-square&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/ashwinmali7781/GetHired.git)
+[![Live](https://img.shields.io/badge/Live_Demo-10B981?style=flat-square&logo=vercel&logoColor=white&labelColor=0D1117)](https://gethired-ashwinmali72-gmailcoms-projects.vercel.app/)
 
-- AI-powered code evaluation with **algorithmic complexity analysis**
-- Fault-tolerant **PostgreSQL schema (6 tables)** with custom indexing
-- UI performance **+35%** · Manual eval time **-70%**
+AI-powered coding interview prep with automated evaluation, real-time leaderboards, complexity analysis, and Supabase auth.
+
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+> UI perf **+35%** · Eval time **-70%** · 6-table schema
 
 </td>
 <td width="50%" valign="top">
 
-### 🏠 PropertyPro — Real Estate Marketplace
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashwinmali7781/PropertyPro.git)
+### PropertyPro — Real Estate Marketplace
 
-`React.js` `Node.js` `Express` `MongoDB` `JWT`
+[![GitHub](https://img.shields.io/badge/GitHub-1E3A8A?style=flat-square&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/ashwinmali7781/PropertyPro.git)
 
-- **JWT auth + RBAC** — onboarding friction reduced **40%**
-- RESTful microservices with OOP design patterns
-- Multi-user concurrency · Image upload · Full CRUD
+Full-stack MERN real estate platform with RBAC, JWT auth, image uploads, and multi-user concurrency.
+
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=339933)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=47A248)
+![Express](https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=white)
+
+> Onboarding friction **-40%** · Responsive web & mobile
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 Movie Sentiment Analyzer
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashwinmali7781/Movie-Sentiment-Analyzer.git)
+### Movie Sentiment Analyzer
 
-`Python` `TensorFlow` `Keras` `RNN` `NLP` `Flask`
+[![GitHub](https://img.shields.io/badge/GitHub-1E3A8A?style=flat-square&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/ashwinmali7781/Movie-Sentiment-Analyzer.git)
 
-- **RNN-based binary classifier** trained on IMDB dataset
-- Full NLP pipeline: tokenize → encode → pad → infer
-- **Sub-second inference** via pretrained `.h5` Flask API
+RNN-based binary sentiment classifier on IMDB dataset, deployed as a real-time Flask web app with sub-second inference.
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![Keras](https://img.shields.io/badge/Keras-0D1117?style=flat-square&logo=keras&logoColor=D00000)
+![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=white)
+
+> Full NLP pipeline · Sub-second inference · `.h5` model
 
 </td>
 <td width="50%" valign="top">
 
-### 🛒 LogiCart — E-Commerce Platform
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ashwinmali7781/LogiCart.git)
+### LogiCart — E-Commerce Platform
 
-`Django` `React.js` `SQLite` `JWT` `REST APIs`
+[![GitHub](https://img.shields.io/badge/GitHub-1E3A8A?style=flat-square&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/ashwinmali7781/LogiCart.git)
 
-- Custom admin dashboard — **30+ products, 7 categories**
-- AJAX coupon validation, cart, wishlist, order tracking
-- Agile/Scrum iterative delivery
+Django + React e-commerce system with admin dashboard, AJAX coupon validation, cart/order tracking, and fault-tolerant state.
+
+![Django](https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=092E20)
+![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=003B57)
+
+> **30+ products** · 7 categories · Agile delivery
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🏅 Achievements
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-- 🏆 **Top 15,000 / 100,000+** — Google Big Code 2026 (Nationwide)
-- 💻 Solved **250+ DSA problems** on LeetCode, GeeksforGeeks & HackerRank — [Codolio Profile](https://codolio.com/profile/Ashwin_Mali_7)
-- 🥈 **2nd Place** — State-Level Project Competition (Intelligent Combat Robot)
-- 👑 Elected **President, Automation & Robotics Department**
-- 📜 **Google AI Essentials** (Google, Jul 2025) — [Verify](https://coursera.org/verify/L1RPLKLS6JT1)
-- 📜 **Python Essentials** (Cisco Networking Academy, Jul 2025) — [Verify](https://www.credly.com/badges/2e11521f-8efc-4fba-82fe-c1cbb37d156a)
+<br/>
 
----
-
-## 📊 GitHub Stats
+## GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashwinmali7781&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinmali7781&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashwinmali7781&show_icons=true&theme=github_dark&hide_border=true&count_private=true&rank_icon=github&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&bg_color=0D1117"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinmali7781&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2563EB&fire=3B82F6&currStreakLabel=60A5FA&sideLabels=CBD5E1&stroke=1E3A8A"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinmali7781&theme=tokyonight&hide_border=true"/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinmali7781&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=CBD5E1&langs_count=8"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinmali7781&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashwinmali7781&bg_color=0D1117&color=60A5FA&line=2563EB&point=3B82F6&hide_border=true&area=true&area_color=1E3A8A"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashwinmali7781&theme=tokyonight&no-frame=true&margin-w=10&column=7"/>
-</div>
+<br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🎯 Current Focus
+<br/>
 
-```text
-🔭 Building   →  AI-powered full-stack systems & deep learning pipelines
-🌱 Learning   →  Advanced system design & distributed architectures
-👯 Open to    →  SDE · Full-Stack · AI-ML internships
-⚡ Goal       →  Scalable product engineer at a high-growth company
-```
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
----
-
-## 🤝 Connect
+## Achievements
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ashwin-mali-697348286">
-  <img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:ashwinmali72@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/ashwinmali7781">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://my-portfolio-54ju.onrender.com/">
-  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-&nbsp;
+<img src="https://github-profile-trophy.vercel.app/?username=ashwinmali7781&theme=algolia&no-frame=true&margin-w=10&column=7&title_color=60A5FA"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| Achievement | Details |
+|:---|:---|
+| 🏆 Google Big Code 2026 | Top **15,000** out of **100,000+** participants nationwide |
+| 💻 DSA Problem Solver | **250+** problems — LeetCode · GeeksforGeeks · HackerRank |
+| 🥈 State Competition | **2nd Place** — Intelligent Combat Robot Project |
+| 👑 Student Leader | Elected **President**, Automation & Robotics Department |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+## Coding Profiles
+
+<div align="center">
+
 <a href="https://leetcode.com/u/AshwinMali/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117"/>
+</a>
+&nbsp;
+<a href="https://www.geeksforgeeks.org/user/ashwinm6dqi/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=0D1117"/>
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/profile/ashwinmali72">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0D1117"/>
+</a>
+&nbsp;
+<a href="https://codolio.com/profile/Ashwin_Mali_7">
+  <img src="https://img.shields.io/badge/Codolio-3B82F6?style=for-the-badge&logoColor=white&labelColor=0D1117"/>
 </a>
 
-<br/><br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer"/>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+## Certifications
+
+<div align="center">
+
+| Certification | Issuer | Date | Verify |
+|:---:|:---:|:---:|:---:|
+| Google AI Essentials | Google | Jul 2025 | [Verify ↗](https://coursera.org/verify/L1RPLKLS6JT1) |
+| Python Essentials | Cisco Networking Academy | Jul 2025 | [Verify ↗](https://www.credly.com/badges/2e11521f-8efc-4fba-82fe-c1cbb37d156a) |
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+## Dev Quote
+
+<div align="center">
+
+[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&borderColor=2563EB&quoteColor=60A5FA&authorColor=CBD5E1)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+<br/>
+
+## Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0D1117&height=120&section=footer&text=Thanks%20for%20visiting%20%E2%9D%A4%EF%B8%8F&fontSize=20&fontColor=CBD5E1&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
